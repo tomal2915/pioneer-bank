@@ -1,0 +1,12 @@
+body{
+    padding: 100px;
+}
+/* .bank-title{
+    text-align: center;
+} */
+.submit-area{
+    border-radius: 10px;
+    margin: 50px;
+    padding: 50px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
